@@ -1,0 +1,21 @@
+.card-body {
+  background-color: black;
+}
+
+#promos {
+  height: 250px;
+  width: 250px;
+}
+
+.mundos {
+  padding-left: 20%;
+  padding-right: 20%;
+}
+.display-5,
+.fw-bold,
+.lead,
+.mb-4,
+.display-4,
+.fs-5 {
+  color: white;
+}
