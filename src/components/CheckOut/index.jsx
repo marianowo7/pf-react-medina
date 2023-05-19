@@ -142,7 +142,7 @@ function CheckOut() {
       <section id="Carrito" className="py-5 text-center container">
         <div className="row py-lg-5">
           <div className="col-12">
-            <p>No hay articulos en su carrito</p>
+            <p id="p">No hay articulos en su carrito</p>
             <img src={image} width="480px" alt="menu" className="img-fluid" />
             <p></p>
             <Link to="/">Regresar al menú</Link>
