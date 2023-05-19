@@ -3,6 +3,10 @@ main {
   height: 100% !important;
 }
 
+li {
+  color: black;
+}
+
 .App {
   text-align: center;
 }
